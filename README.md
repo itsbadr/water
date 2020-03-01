@@ -1,7 +1,7 @@
-# A very simple water reminder that plays loud music and displays Windows 10 notifications.
-
-# Dependencies
-- Python
+# Water reminder
+It's too simple
+# Prerequisites
+- Python........
 - Win10toast (Toast notifications)
 - playsound (for playing the music)
 
